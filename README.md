@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+
+## Reg. No: 212223040013
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -61,6 +61,108 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+
+## Demonstration: A Case Study Topic
+
+## Topic: “Remote Work Adoption in Tech Companies”
+
+Each technique is tested with this topic for comparative output.
+
+## 1. Naive Prompt (Control Group)
+
+Prompt: “Write a case study about remote work in a tech company.”
+
+## Output Quality:
+
+• Structure: ✖️ Weak
+
+• Coherence: ⚠️ Moderate
+
+• Insight: ⚠️ Generic
+
+##2. Query Decomposition
+
+Prompt Sequence:
+
+Describe the company and its structure. Why was remote work adopted? What were the productivity outcomes? What lessons were learned post-implementation?
+
+## Output Quality:
+
+• Structure: ✅ Strong
+
+• Coherence: ✅ High
+
+• Insight: ✅ Deep
+
+## 3. Decision-Making Prompt
+
+Prompt:
+
+“If the company is a startup, describe how flexibility improved innovation. If it's an enterprise, focus on operational scalability during remote adoption.”
+
+## Output Quality:
+
+• Structure: ✅ Adaptive
+
+• Coherence: ✅ High
+
+• Insight: ✅ Tailored
+
+## 4. Semantic Filtering Prompt: “Write a case study about remote work in a tech company based only on 2020–2023 peer-reviewed studies and employee surveys.”
+
+## Output Quality:
+
+• Structure: ✅ Scoped
+
+• Coherence: ✅ Strong
+
+• Insight: ✅ Evidence-based
+
+## 5. Few-Shot Prompting
+
+Prompt:
+
+Example 1: A structured case study on hybrid work in finance. Example 2: A case study about agile teams in remote environments. Then: “Now write a case study on remote work in a tech company using the above format.”
+
+## Output Quality:
+
+• Structure: ✅ Consistent
+
+• Coherence: ✅ High
+
+• Insight: ⚠️ Moderate (depends on example quality)
+
+## 6. Role-Based Prompting
+
+Prompt:
+
+“As an HR Director of a mid-size tech company, write a personal account of how remote work evolved in your team.”
+
+## Output Quality:
+
+• Structure: ✅ Narrative
+
+• Coherence: ✅ High
+
+• Insight: ✅ Authentic and practical
+
+## Creative Content
+
+Example: Comic Book Scene
+
+Scenario: An AI learns human emotions.
+
+![image](https://github.com/user-attachments/assets/a3f5e67f-9dd7-4bed-9a4d-0b4751eae17c)
+
+
+## Comparison Table
+
+![image](https://github.com/user-attachments/assets/10de7f1e-08ac-450f-a6ff-6ed74fbbe3d8)
+
+## output:
+
+![image](https://github.com/user-attachments/assets/09f47b5c-19d0-4971-8fa7-dfdd04d2a215)
+
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
